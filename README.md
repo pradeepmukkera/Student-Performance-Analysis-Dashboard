@@ -1,16 +1,15 @@
 # Student-Performance-Analysis-Dashboard
 This data analysis project explores patterns in student academic performance based on various factors including study hours, parental education, and test preparation course completion. The dashboard helps educators and administrators identify performance gaps and opportunities for intervention.
-# 🎓 Student Performance Analysis Dashboard
+#  Student Performance Analysis Dashboard
 
 This data analysis project explores patterns in student academic performance based on various factors including study hours, parental education, and test preparation course completion. The dashboard helps educators and administrators identify performance gaps and opportunities for intervention.
 
-## 📁 Project Files
+##  Project Files
 
 - `student_performance_dashboard.pbix`: Power BI dashboard file
 - `student_data.csv`: Source dataset used for analysis
-- `README.md`: Documentation and explanation of the project
 
----
+
 
 ##  Implementation Details
 
@@ -44,7 +43,7 @@ This data analysis project explores patterns in student academic performance bas
 
 ---
 
-## 🧠 Strategic Insights
+##  Strategic Insights
 
 - Students with completed test prep show 12–18% higher average scores.
 - Parental education correlates positively with student performance.
@@ -53,7 +52,7 @@ This data analysis project explores patterns in student academic performance bas
 
 ---
 
-## 🛠 Tools Used
+##  Tools Used
 
 - **Power BI**: Data cleaning, modeling, dashboard creation
 - **Power Query**: Data transformation
