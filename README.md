@@ -7,7 +7,7 @@ This data analysis project explores patterns in student academic performance bas
 ##  Project Files
 
 - `student_performance_dashboard.pbix`: Power BI dashboard file
-- `student_data.csv`: Source dataset used for analysis
+- `StudentsPerformance.xlsx`: Source dataset used for analysis
 
 
 
